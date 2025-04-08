@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Deepika-1605/Excel-Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/gulnaaz-source/Excel-Finance_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Deepika-1605/Excel-Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Deepika-1605/Excel-Finance_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Deepika-1605/Excel-Finance_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
